@@ -1,2 +1,30 @@
-# ETHz_CCA
-Summary of ETHz Cloud Computing Architecture course
+# Cloud Computing Architecture(23Spring)
+Summary of (23Spring ETHz Cloud Computing Architecture course)[https://systems.ethz.ch/education/courses/2023-spring/cloud-computing-architecture.html]
+
+## Introduction of Cloud Computing
+###What's cloud computing?
+Cloud computing is the delivery of compute and storage resources on-demand, to offer:
+- High performance
+- Cost efficiency (economies of scale)
+- Flexibility, elasticity
+- High availability
+
+###Two types of cloud:
+- Private clouds: limited to a single organization, e.g., enterprises have their own cloud facilities
+- Public clouds can be used by multiple organizations, e.g., public cloud providers like Amazon Web Services, Microsoft Azure, and Google Cloud rent hardware/software services on demand to the public
+
+###Evolution of cloud computing
+- Cloud 1.0: Virtualization: Enable multiple users to share hardware
+- Cloud 2.0: Hardware on demand: Rent virtual machines by the hour (or second) from public cloud provider
+- Cloud 3.0: “Serverless computing”: Cloud provides an abstraction of compute and storage services, not servers
+
+##Structure of the course
+
+## Reading Material
+###Books
+- The Datacenter as a Computer: Designing Warehouse-scale Machines(3rd edition), by Luiz Barroso, Urs Hölzle, Parthasarathy Ranganathan
+- Computer Architecture: A Quantitative Approach(6th edition), Chapter 6: The Warehouse-Scale computer, by John Hennessy & David Patterson
+
+###Papers
+[1] (The Decline of Computers as a General Purpose Technology)[https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext]
+
