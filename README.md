@@ -32,3 +32,5 @@ Cloud computing is the delivery of compute and storage resources on-demand, to o
 
 [3] Accelerator Example: [Video Coding Unit (VCU): Warehouse-Scale Video Acceleration: Co-design and Deployment in the Wild](https://research.google/pubs/pub50300/)
 
+[4] Performance analysis: [Always Measure One Level Deeper](https://dl.acm.org/doi/pdf/10.1145/3213770)
+
