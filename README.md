@@ -19,7 +19,7 @@ Cloud computing is the delivery of compute and storage resources on-demand, to o
 - Cloud 3.0: “Serverless computing”: Cloud provides an abstraction of compute and storage services, not servers
 
 ## Structure of the course
-[](https://github.com/manyiw99/ETHz_CCA/blob/main/Cloud%20Computing%20Architecture.pdf)
+[Structure of the course](https://github.com/manyiw99/ETHz_CCA/blob/main/Cloud%20Computing%20Architecture.png)
 
 ## Reading Material
 ### Books
