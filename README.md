@@ -21,6 +21,10 @@ Cloud computing is the delivery of compute and storage resources on-demand, to o
 ## Structure of the course
 ![image](https://github.com/manyiw99/ETHz_CCA/blob/main/Cloud%20Computing%20Architecture.png)
 
+## Scripts
+- `runPart3`: Automate job launching (Launch 7 jobs on 3 VMs, arrange the order and concurrency of jobs)
+- `runPart4.py`: Monitor CPU untilization in real-time and dynamically start/pause/unpause jobs
+
 ## Reading Material
 ### Books
 - The Datacenter as a Computer: Designing Warehouse-scale Machines(3rd edition), by Luiz Barroso, Urs Hölzle, Parthasarathy Ranganathan
