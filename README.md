@@ -34,3 +34,27 @@ Cloud computing is the delivery of compute and storage resources on-demand, to o
 
 [4] Performance analysis: [Always Measure One Level Deeper](https://dl.acm.org/doi/pdf/10.1145/3213770)
 
+[5] Virtualization: Bolt
+
+[6] Container: gVisor
+
+[7] microVM: firecracker
+
+[8] Serverless: The rise of serverless computing, By Paul Castro
+
+[9] Serverless: What serverless computing is and should become:the next phase of cloud computing
+
+[10] Serverless: serverless in the wild 
+
+[11] Cluster resource manager: Mesos
+
+[12] Cluster resource manager: Borg
+
+[13] Cluster resource manager: YARN
+
+[14] Cluster resource manager: Omega
+
+[15] Cluster resource manager: Sparrow
+
+[16] Cluster resource manager: Quasar
+
